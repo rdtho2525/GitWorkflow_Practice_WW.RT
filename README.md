@@ -1,6 +1,6 @@
 # First line of git practice
 
-- text addition
+- this shouldn't be here
 
 - additional text
 
