@@ -1,4 +1,7 @@
 # First line of git practice
 
-+ causing trouble
-+ alkdsjf;alkj
+- text addition
+
+- additional text
+
+- some more text
