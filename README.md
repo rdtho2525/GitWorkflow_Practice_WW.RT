@@ -1,8 +1,8 @@
-# First line of git practice 
+# First line of git practice
 
-- text addition 
+- this shouldn't be here
 
-- additional text 
+- additional text
 
 - some more text
 
